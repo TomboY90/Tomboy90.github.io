@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21ea8a"],{d701:function(t,e,n){"use strict";n.r(e);var c=n("7a23"),r={class:"start-wrap"},a=Object(c["e"])("h1",null,"시작 페이지",-1),u=Object(c["f"])("퀴즈 풀기");function o(t,e,n,o,b,s){var d=Object(c["x"])("router-link");return Object(c["q"])(),Object(c["d"])("section",r,[a,Object(c["g"])(d,{to:"/quiz"},{default:Object(c["C"])((function(){return[u]})),_:1})])}var b={name:"Start"},s=n("6b0d"),d=n.n(s);const i=d()(b,[["render",o]]);e["default"]=i}}]);
+//# sourceMappingURL=chunk-2d21ea8a.33cbff5d.js.map
